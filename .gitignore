@@ -6,3 +6,11 @@
 x64/
 *.user
 *.suo
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.user
+*.suo
